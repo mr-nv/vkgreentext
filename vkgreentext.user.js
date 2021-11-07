@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         vk greentext
 // @namespace    http://github.com/mr-nv
-// @version      1.0
-// @description  зеленый мемный текст для впараши как на популярных мемных сайтах таких как двач и форчан (здесь все мои друзья)
+// @version      1.1
+// @description  зеленый мемный текст как на популярных сайтах таких как двач и форчан
 // @author       mr-nv
-// @match        *vk.com/im*
+// @match        *vk.com/*
+// @updateURL    https://github.com/mr-nv/vkgreentext/raw/master/vkgreentext.user.js
 // @icon         https://www.google.com/s2/favicons?domain=vk.com
 // @grant        none
 // ==/UserScript==
